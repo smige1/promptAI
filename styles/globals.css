@@ -168,3 +168,6 @@
 .flex-between {
   @apply flex justify-between items-center;
 }
+.head_text1 {
+  @apply font-satoshi font-semibold text-lg mt-3 max-sm:text-sm text-black tracking-wide;
+}
